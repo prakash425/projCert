@@ -22,7 +22,7 @@
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
     </article>
-    <h1>check</h1>
+    <h1>check2</h1>
 
     <footer><small>&copy;<?php echo date('Y'); ?> <?php siteName(); ?>.<br><?php siteVersion(); ?></small></footer>
 
